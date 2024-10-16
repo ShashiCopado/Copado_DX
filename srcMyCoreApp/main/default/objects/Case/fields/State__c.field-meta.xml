@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>State__c</fullName>
+    <label>State</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Country__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetName>State</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Bihar</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <controllingFieldValue>South America</controllingFieldValue>
+            <valueName>Odisha</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>North America</controllingFieldValue>
+            <controllingFieldValue>Srilanka</controllingFieldValue>
+            <valueName>Rajasthan</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
