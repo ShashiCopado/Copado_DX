@@ -4,7 +4,7 @@
         <fullName>Test Jan Assignment Rule</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>sbhushandx@dev1.com</assignedTo>
+            <assignedTo>sbhushandx@newuat.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.AnnualRevenue</field>
