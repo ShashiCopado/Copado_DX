@@ -5,7 +5,7 @@
         <description>Test Email alert Jan</description>
         <protected>false</protected>
         <recipients>
-            <recipient>sbhushandx@dev1.com</recipient>
+            <recipient>sbhushandx@newuat.com</recipient>
             <type>user</type>
         </recipients>
         <senderType>CurrentUser</senderType>
