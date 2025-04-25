@@ -27,7 +27,6 @@
             <value>
                 <fullName>Value 4</fullName>
                 <default>false</default>
-                <isActive>false</isActive>
                 <label>Value 4</label>
             </value>
         </valueSetDefinition>
